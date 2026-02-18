@@ -1,0 +1,17 @@
+{
+  "name": "order-inventory-system",
+  "version": "1.0.0",
+  "description": "Учебный проект: система управления заказами и товарами с тестами",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "test:unit": "jest tests/unit",
+    "test:functional": "jest tests/functional"
+  },
+  "keywords": ["orders", "inventory", "jest", "testing"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
